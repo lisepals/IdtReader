@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Stub script for testing IdtReader features."""
+"""Stub script for testing Program features."""
 
 # --------------------------------------------------------------------
 # Imports
